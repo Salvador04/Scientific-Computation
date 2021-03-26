@@ -1,6 +1,6 @@
 **Author: Salvador Gonzalez Juarez**
 
-# Scientific-Computation
+# Scientific computation
 
 This repository contains the programs that I designed for the Scientific Computation course, at Genomic sciences program. The requirements of each program were the following:
 
